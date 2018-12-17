@@ -22,7 +22,7 @@ client.on('message', msg => {
 });
 if (message.content === '$GAMES') {
               var embed  = new Discord.RichEmbed()
-                .addField("marry)" ,"**الاستخدام:** ``$marry``")
+                .addField("تتزوجيني)" ,"**الاستخدام:** ``$تتزوجيني``")
                 .addField("**صراحه**" ,"**الاستخدام:** ``$صراحه``")
                 .addField("**لوخيروك**" ,"**الاستخدام:** ``$لوخيروك``")
                 .addField("**ِعقاب**" ,"**الاستخدام:** ``$عقاب``")
